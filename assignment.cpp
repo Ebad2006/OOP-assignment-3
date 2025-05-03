@@ -1,3 +1,6 @@
+/*name: Ebad Ali Siddiqui
+    section: 2C
+    roll no: 24k-0882*/
 #include <iostream>
 #include <string>
 #include <fstream>
